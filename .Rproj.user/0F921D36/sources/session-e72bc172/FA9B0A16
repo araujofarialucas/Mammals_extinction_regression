@@ -1,0 +1,27 @@
+{
+    "id": "FA9B0A16",
+    "path": "~/Downloads/Mammals_extinction_regression/Scripts/Mammal_data.R",
+    "project_path": "Scripts/Mammal_data.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1792529957543.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "64,0",
+        "scrollLine": "50"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1792591440,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1792591675122,
+    "read_only": false,
+    "read_only_alternatives": []
+}
