@@ -61,7 +61,7 @@ combine <- read.csv("Data/trait_data_imputed.csv") %>%
 
 
 
-
+usethis::use_git()
 
 
 
